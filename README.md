@@ -3,8 +3,12 @@
 - 🏗️ I’m looking to collaborate on Pertamina 🏗️
 - 🏀🦄 I’m interested in basketball n unicorn 🦄🏀
 - 📥 How to reach me on instagram @septian.dn_ 📥
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=rdf154 alt=rdf154 /> </p>
 
-https://github.com/Septian-12/Septian-12/assets/144183835/00a48b22-3fca-4d43-af90-acaccfabdabd
+[![Github stats](https://github.com/Septian-12/Septian-12/assets/144183835/00a48b22-3fca-4d43-af90-acaccfabdabd)
+
+
 <!---
 Septian-12/Septian-12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
