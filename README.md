@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Septian-12 👋
+- 👋 Hi, I’m Septian👋
 - 🔭 I’m currently studying on Gadjah Mada of University (Geophysics'22) 🔭
 - 🏗️ I’m looking to collaborate on Pertamina 🏗️
 - 🏀🦄 I’m interested in basketball n unicorn 🦄🏀
