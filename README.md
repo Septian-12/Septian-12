@@ -4,9 +4,9 @@
 - 🏀🦄 I’m interested in basketball n unicorn 🦄🏀
 - 📥 How to reach me on instagram @septian.dn_ 📥
 ## LOOK AT THIS!!!
-<p align=left> <img src=https://komarev.com/ghpvc/?username=rdf154 alt=rdf154 /> </p>
+<p align=left> <img src=https://komarev.com/ghpvc/?username=Septian-12 alt=Septian-12 /> </p>
 
-(https://github.com/Septian-12/Septian-12/assets/144183835/5f35b377-6171-4dd8-9cb3-336dc1baad48))
+[![Github stats](https://github.com/Septian-12/Septian-12/assets/144183835/5f35b377-6171-4dd8-9cb3-336dc1baad48))
 
 
 <!---
