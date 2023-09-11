@@ -6,7 +6,7 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=rdf154 alt=rdf154 /> </p>
 
-[![Github stats](https://github.com/Septian-12/Septian-12/assets/144183835/00a48b22-3fca-4d43-af90-acaccfabdabd)
+[![Github stats](![WhatsApp Video 2023-09-11 at 23 43 39](https://github.com/Septian-12/Septian-12/assets/144183835/5f35b377-6171-4dd8-9cb3-336dc1baad48))
 
 
 <!---
