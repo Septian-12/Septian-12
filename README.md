@@ -6,7 +6,7 @@
 ## LOOK AT THIS!!!
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Septian-12 alt=Septian-12 /> </p>
 
-![Github stats]([https://github.com/Septian-12/Septian-12/assets/144183835/4d27c34b-f9b5-4f6e-99eb-1afb12da945a](https://github.com/Septian-12/Septian-12/assets/144183835/13221702-8c48-493a-a7af-fc8c8973226a)
+![Github stats](https://github.com/Septian-12/Septian-12/assets/144183835/13221702-8c48-493a-a7af-fc8c8973226a)
 
 
 <!---
